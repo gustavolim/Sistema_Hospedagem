@@ -1,0 +1,14 @@
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\bin\Debug\net8.0\Sistema_Hospedagem.exe
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\bin\Debug\net8.0\Sistema_Hospedagem.deps.json
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\bin\Debug\net8.0\Sistema_Hospedagem.runtimeconfig.json
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\bin\Debug\net8.0\Sistema_Hospedagem.dll
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\bin\Debug\net8.0\Sistema_Hospedagem.pdb
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.AssemblyInfoInputs.cache
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.AssemblyInfo.cs
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.dll
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\refint\Sistema_Hospedagem.dll
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.pdb
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\Sistema_Hospedagem.genruntimeconfig.cache
+C:\Users\delim\OneDrive\Documentos\Projetos\Sistema_Hospedagem\obj\Debug\net8.0\ref\Sistema_Hospedagem.dll
